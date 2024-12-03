@@ -33,8 +33,6 @@ Borrow = A’B
 
 Figure -02 HALF Subtractor
 
-**Truthtable**
-
 **Procedure**
 
 1.	Type the program in Quartus software.
@@ -50,9 +48,11 @@ Figure -02 HALF Subtractor
 
 **Program:**
 
-/* Program to design a half adder and half subtractor circuit and verify its truth table in quartus using Verilog programming.
+Program to design a half adder and half subtractor circuit and verify its truth table in quartus using Verilog programming.
 
-Developed by: RegisterNumber:24002206
+Developed by:S.Dharini
+RegisterNumber:24002206
+
 i)HALF ADDER
 
 module ha(a,b,sum,carry);
